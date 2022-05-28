@@ -3,7 +3,7 @@ Assignment 03 for Vanderbilt CS 5262
 
 ## Week 3 Assignment Description
 
-Deadline: Tuesday 5/31 11:59PM (CDT) **This is extended**
+Deadline: Wednesday 5/31 11:59PM (CDT) **This is extended**
 
 ### I. Purpose:  
 Gain experience applying scikit learn to machine learning problems
