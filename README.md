@@ -5,7 +5,6 @@ Assignment 03 for Vanderbilt CS 5262
 
 Deadline: Tuesday 5/31 11:59PM (CDT) **This is extended**
 
-Week 2 Assignment: git and GitHub Environment
 ### I. Purpose:  
 Gain experience applying scikit learn to machine learning problems
 
@@ -16,9 +15,9 @@ Work must be completed by the deadline stated above.
 
 ### III. Tasks: 
 
-[10 POINTS] Properly document the notebook with descriptions of the tasks.
+[10 POINTS] Create a new notebook name "churn-prediction", and properly document the notebook with descriptions of the tasks.
 
-[10 POINTS] Using the scikit-demo-solutions notebook as a guide, prepare a new notebook to read in the HR data. 
+[10 POINTS] Using the scikit-demo-solutions notebook as a guide, read in the HR data. 
 
 [10 POINTS] Split the data for train and test
 
