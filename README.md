@@ -15,6 +15,8 @@ Work must be completed by the deadline stated above.
 
 ### III. Tasks: 
 
+Create a new repository using this repo as a template. Name your repo assign03-50-[lastname]
+
 [10 POINTS] Create a new notebook name "churn-prediction", and properly document the notebook with descriptions of the tasks.
 
 [10 POINTS] Using the scikit-demo-solutions notebook as a guide, read in the HR data. 
